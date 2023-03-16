@@ -1,3 +1,3 @@
 # Dorne
 
-Preview [dorne-itstep.netlify.app](https://dorne-itstep.netlify.app)
+Preview [gp-dorne.netlify.app](https://gp-dorne.netlify.app)
